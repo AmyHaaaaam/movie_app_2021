@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AmyHaaaaam.github.io/movie_app_2021/static/css/main.f9bea69a.chunk.css",
+    "main.js": "/AmyHaaaaam.github.io/movie_app_2021/static/js/main.42ec7664.chunk.js",
+    "main.js.map": "/AmyHaaaaam.github.io/movie_app_2021/static/js/main.42ec7664.chunk.js.map",
+    "runtime-main.js": "/AmyHaaaaam.github.io/movie_app_2021/static/js/runtime-main.52a91df7.js",
+    "runtime-main.js.map": "/AmyHaaaaam.github.io/movie_app_2021/static/js/runtime-main.52a91df7.js.map",
+    "static/js/2.6ce27cae.chunk.js": "/AmyHaaaaam.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js",
+    "static/js/2.6ce27cae.chunk.js.map": "/AmyHaaaaam.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js.map",
+    "index.html": "/AmyHaaaaam.github.io/movie_app_2021/index.html",
+    "static/css/main.f9bea69a.chunk.css.map": "/AmyHaaaaam.github.io/movie_app_2021/static/css/main.f9bea69a.chunk.css.map",
+    "static/js/2.6ce27cae.chunk.js.LICENSE.txt": "/AmyHaaaaam.github.io/movie_app_2021/static/js/2.6ce27cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a91df7.js",
+    "static/js/2.6ce27cae.chunk.js",
+    "static/css/main.f9bea69a.chunk.css",
+    "static/js/main.42ec7664.chunk.js"
+  ]
+}
