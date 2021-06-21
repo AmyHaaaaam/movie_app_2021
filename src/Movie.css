@@ -1,0 +1,14 @@
+
+.movies{display:flex;flex-wrap:wrap;margin:0 auto;width:100%;max-width:1200px;justify-content:space-between;}
+.movie{display:flex;margin:0 0 20px;padding:10px;flex-wrap:nowrap;justify-content:space-between;width:49%;box-sizing:border-box;}
+
+.image{width:20%;}
+.image > img{width:100%;}
+
+.movie_data{padding:0 0 0 10px;width:80%;max-height:400px;box-sizing:border-box;overflow:hidden;}
+
+.movie_title{padding:0 0 20px;font-size:24px;font-weight:700;line-height:32px;}
+.movie_year{padding:0 0 15px;font-size:18px;font-weight:600;line-height:20px;}
+.movie_genres{padding:0 0 20px;font-size:14px;font-weight:400;line-height:20px;color:#333;}
+.movie_genres > li {padding:0 5px 0 0;}
+.movie_summary{font-size:12px;font-weight:400;line-height:20px;color:#333;text-overflow:ellipsis;word-wrap:normal;}
